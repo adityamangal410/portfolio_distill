@@ -1,0 +1,17 @@
+name: "aditya_mangal"
+title: "Aditya Mangal's Blog"
+description: |
+  The goal of this blog is to talk about things I'm working on, 
+  discuss some of the personal projects I'm spending time on and 
+  some random thoughts and musings.
+output_dir: "_site"
+base_url: https://adityamangal.com/
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - icon: fa fa-rss
+      href: index.xml
+output: distill::distill_article

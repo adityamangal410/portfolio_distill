@@ -1,0 +1,31 @@
+---
+title: "India Transportation Accidents Exploration Project"
+description: |
+  With this project I will try to visualize and understand the traffic accident data for India as publicly accessible  [here](https://data.gov.in/)
+author:
+  - name: Aditya Mangal
+    url: https://www.linkedin.com/in/adityamangal410/
+date: 09-28-2017
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Project Summary
+
+With this project I will try to visualize and understand the traffic accident data for India as publicly accessible [here](https://data.gov.in/). 
+
+# Project Goals
+
+1. Visualize traffic information and find trends
+
+2. Find outliers and see if any valuable info can be dugout for each state or overall.
+
+3. Try to predict number of accidents or other useful information.
+
+I'll put out notebooks related to the work as separate articles.

@@ -1,0 +1,36 @@
+[
+  {
+    "path": "posts/welcome/",
+    "title": "Welcome to Aditya Mangal",
+    "description": "Welcome to our new blog, Aditya Mangal. We hope you enjoy \nreading what we have to say!",
+    "author": [
+      {
+        "name": "Nora Jones",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2021-04-07",
+    "categories": [],
+    "contents": "\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-04-07T15:23:14-07:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/2017-09-28-india-transportation-accidents-exploration-project/",
+    "title": "India Transportation Accidents Exploration Project",
+    "description": "With this project I will try to visualize and understand the traffic accident data for India as publicly accessible  [here](https://data.gov.in/)",
+    "author": [
+      {
+        "name": "Aditya Mangal",
+        "url": "https://www.linkedin.com/in/adityamangal410/"
+      }
+    ],
+    "date": "2017-09-28",
+    "categories": [],
+    "contents": "\nProject Summary\nWith this project I will try to visualize and understand the traffic accident data for India as publicly accessible here.\nProject Goals\nVisualize traffic information and find trends\nFind outliers and see if any valuable info can be dugout for each state or overall.\nTry to predict number of accidents or other useful information.\nI’ll put out notebooks related to the work as separate articles.\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-04-18T10:45:53-07:00",
+    "input_file": {}
+  }
+]
